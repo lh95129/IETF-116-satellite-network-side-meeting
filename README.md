@@ -2,7 +2,12 @@
 The side meeting for satellite network in IETF-116 at Japan
 
 Schedule:
-TBD
+1. Chiar's slide - 5 mins
+2. "Satellite networking use case for 3GPP", China Mobile, Jijiang Tian - 15 mins
+3. "Tiansuan Constellation: an Open On-Orbit Satellite Network Experiment Platform", Tiansuan Constellation Founder, Shangguang Wang - 15 mins
+4. "Problems and Requirments of Addressing in Integrated Space-Terrestrial Network", Tsinghua University, Prof. Yuanjie Li - 15 mins
+5. TBD
+6. TBD
 
 Room:
 TBD
