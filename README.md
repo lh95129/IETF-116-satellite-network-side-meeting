@@ -1,6 +1,14 @@
 # IETF-116-satellite-network-side-meeting
 The side meeting for satellite network in IETF-116 at Japan
 
+Scope:
+Not about the topics worked under TVR, MANET, DTN and L4 and above protocols for satellite networking.
+Focusing on the networking issues of using satellite network for NTN integration where the satellite constellation is an infrastructure network. i.e. Large scale LEO satellite for internet access or mobile back haul.
+*Problem statement and use case
+*Addressing, Routing and switching, 
+*Multi-path, Switchover, Mobility
+*Integration with internet, 
+
 Schedule:
 1. Chair's slide - 10 mins
 2. "Satellite networking, Problems and Use Case for 3GPP", Futurewei, Lin Han; China Mobile, Tianji Jiang - 15 mins
