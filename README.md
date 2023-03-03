@@ -3,11 +3,11 @@ The side meeting for satellite network in IETF-116 at Japan
 
 Scope:
 Not about the topics worked under TVR, MANET, DTN and L4 and above protocols for satellite networking.
-Focusing on the networking issues of using satellite network for NTN integration where the satellite constellation is an infrastructure network. i.e. Large scale LEO satellite for internet access or mobile back haul.
+Focusing on the networking issues of using satellite network for NTN integration where the satellite constellation is an infrastructure network. i.e. Large scale LEO satellite for internet access or mobile back haul. such as:
 1.Problem statement and use case
-2.Addressing, Routing and switching, 
+2.Addressing, Routing and switching
 3.Multi-path, Switchover, Mobility
-4.Integration with internet, 
+4.Integration with internet
 
 Schedule:
 1. Chair's slide - 10 mins
