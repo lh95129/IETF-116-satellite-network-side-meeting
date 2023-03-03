@@ -2,7 +2,7 @@
 The side meeting for satellite network in IETF-116 at Japan
 
 Schedule:
-1. Chair's slide - 5 mins
+1. Chair's slide - 10 mins
 2. "Satellite networking, Routing Problems and Use Case for 3GPP", Futurewei, Lin Han; China Mobile, Tianji Jiang - 15 mins
 3. "Tiansuan Constellation: an Open On-Orbit Satellite Network Experiment Platform", Founder of Tiansuan Constellation, Shangguang Wang - 15 mins
 4. "Problems and Requirments of Addressing in Integrated Space-Terrestrial Network", Tsinghua University, Prof. Yuanjie Li - 15 mins
