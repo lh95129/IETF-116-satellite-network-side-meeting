@@ -10,8 +10,8 @@ i.e. Large scale LEO satellite for internet access or mobile back haul. Topics i
 
 1.  Problem statement and use case
 2.  Addressing, Routing and switching
-3.  Multi-path, Switchover, Mobility
-4.  Integration with internet
+3.  Mobility, Handover, Multi-path
+4.  Integration with internet and routes exchanging
 
 Schedule:
 1. Chair's slide - 10 mins
