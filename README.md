@@ -34,9 +34,13 @@ https://futurewei.zoom.us/j/7743893573?pwd=YjJ1cnpIb1VhakVSeVg0UFVmcmlIQT09
 Meeting ID: 774 389 3573
 
 Passcode: sat123
+
 One tap mobile
+
 +16694449171,,7743893573#,,,,*432834# US
+
 +16699006833,,7743893573#,,,,*432834# US (San Jose)
+
 
 Dial by your location
         +1 669 444 9171 US
