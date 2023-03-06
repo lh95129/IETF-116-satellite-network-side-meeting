@@ -26,10 +26,13 @@ Room:
 G301
 
 Meeting links:
+
 Join Zoom Meeting
+
 https://futurewei.zoom.us/j/7743893573?pwd=YjJ1cnpIb1VhakVSeVg0UFVmcmlIQT09
 
 Meeting ID: 774 389 3573
+
 Passcode: sat123
 One tap mobile
 +16694449171,,7743893573#,,,,*432834# US
