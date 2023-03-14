@@ -19,8 +19,8 @@ Schedule:
 3. "Tiansuan Constellation: an Open On-Orbit Satellite Network Experiment Platform", Founder of Tiansuan Constellation, Shangguang Wang - 15 mins
 4. "Problems and Requirments of Addressing in Integrated Space-Terrestrial Network", Tsinghua University, Prof. Yuanjie Li - 15 mins
 5. "Software-Defined-Networking: Motivations and Challenges", Beijing University of Posts and Telecommunications, Prof. Jiang Liu - 15 mins
-6. TBD.
-7. Discussions - 20 mins
+6. "Introduction to the satellite routing hackathon project", Huawei, Li Zhang - 10 mins
+7. Discussions - 10 mins
 
 
 Room:
